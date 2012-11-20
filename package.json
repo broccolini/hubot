@@ -3,7 +3,7 @@
   "version":     "2.3.4",
   "engines": {
     "node": "0.8.8",
-    "npm":  "1.1.59"
+    "npm":  "1.1.65"
   },
   "author":      "hubot",
   "keywords":    "github hubot campfire bot",
